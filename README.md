@@ -2,7 +2,7 @@
 
 Bu proje, makine öğrenmesi literatürünün en temel taşlarından biri olan **Iris Veri Seti** üzerinde farklı algoritmaların performansını ölçmek ve veri ön işleme tekniklerinin model üzerindeki etkisini analiz etmek amacıyla geliştirilmiştir.
 
-## 🌸 Veri Seti Hakkında: Iris (Süsen Çiçeği)
+## Veri Seti Hakkında: Iris (Süsen Çiçeği)
 
 Çalışmada, 3 farklı Iris çiçeği türüne (Setosa, Versicolor, Virginica) ait morfolojik ölçümler içeren veri seti kullanılmıştır. 
 
